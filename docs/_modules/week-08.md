@@ -2,12 +2,12 @@
 title: Week 8
 weekNumber: 8
 days:
-  - date: '2025-11-17'
+  - date: '2026-11-16'
     events:
       - name: DISC 8
         type: disc
         title: Disc 8
-  - date: '2025-11-18'
+  - date: '2026-11-17'
     events:
       - name: PROJ 3
         type: proj
@@ -15,12 +15,12 @@ days:
       - name: FINAL PROJ
         type: proj
         title: Final Project Proposal
-  - date: '2025-11-19'
+  - date: '2026-11-18'
     events:
       - name: LEC 14
         type: lecture
         title: Animation
-  - date: '2025-11-21'
+  - date: '2026-11-20'
     events:
       - name: LAB 8
         type: lab

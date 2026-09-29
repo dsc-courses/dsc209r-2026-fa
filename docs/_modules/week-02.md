@@ -2,26 +2,18 @@
 title: Week 2
 weekNumber: 2
 days:
-  - date: '2025-10-06'
+  - date: '2026-10-05'
     events:
       - name: DISC 2
         type: disc
         title: Disc 2
-  - date: '2025-10-07'
+  - date: '2026-10-06'
     events:
       - name: PROJ 1
         type: proj
         title: Project 1 Checkpoint
-  - date: '2025-10-08'
+  - date: '2026-10-09'
     events:
-      - name: CANCELED
-        type: canceled
-        title: NO Lecture - Sam traveling
-  - date: '2025-10-10'
-    events:
-      - name: CANCELED
-        type: canceled
-        title: NO Lecture - Sam traveling
       - name: LAB 2
         type: lab
         title: Lab 2

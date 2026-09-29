@@ -2,7 +2,7 @@
 title: Week 0
 weekNumber: 0
 days:
-  - date: '2025-09-26'
+  - date: '2026-09-25'
     events:
       - name: LEC 1
         type: lecture
