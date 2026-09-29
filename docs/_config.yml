@@ -18,7 +18,7 @@ description: DSC 209R, Fall 2025 at UC San Diego
 tagline: Data Visualization
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://dsc-courses.github.io/dsc209r-2025-fa/' # the base hostname & protocol for your site, e.g. http://example.com
-author: Sam Lau
+author: Tauhidur Rahman
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "scripts"]
 
 # Theme settings
