@@ -150,8 +150,8 @@ project requirements (Satisfactory column) will get 8.5/10 points.
 ## Submission Details
 
 This is an individual assignment. **You may not work in groups.** There is a checkpoint
-submission due on **Friday 10/3, by 11:59pm**. Your
-completed assignment is due on **Friday 10/10, by 11:59pm**.
+<!-- submission due on **Friday 10/3, by 11:59pm**. Your
+completed assignment is due on **Friday 10/10, by 11:59pm**. -->
 
 ### Checkpoint Submission
 
