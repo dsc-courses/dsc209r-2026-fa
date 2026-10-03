@@ -93,7 +93,8 @@ Submit your [team registration form][link5] by **Wed 10/29, 11:59 PM**.
 
 ### Checkpoint Submission
 
-The submission must be made on Canvas by **Fri 10/31, 11:59 PM**. For this submission, submit an **mp4** video no longer than 1 minute with the following details:
+<!-- The submission must be made on Canvas by **Fri 10/31, 11:59 PM**.  -->
+Please check Canvas for submission due date. For this submission, submit an **mp4** video no longer than 1 minute with the following details:
 
 1. Name of your team and team members
 2. Dataset chosen. Explain the aspects of the datasets you plan to use.
@@ -109,7 +110,9 @@ Please ensure that the video has an associated audio/voiceover rather than just 
 
 ### Final Submission
 
-You must have a working prototype online by **Fri 11/07, 11:59 pm**. Your prototype should be accessible on GitHub pages using a publicly viewable URL.
+Please check Canvas for submission due date.
+<!-- You must have a working prototype online by **Fri 11/07, 11:59 pm**. 
+Your prototype should be accessible on GitHub pages using a publicly viewable URL. -->
 
 In addition, **you must submit the URL on Canvas**. **One submission per team is sufficient**.
 

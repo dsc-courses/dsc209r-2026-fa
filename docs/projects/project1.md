@@ -149,7 +149,7 @@ project requirements (Satisfactory column) will get 8.5/10 points.
 
 ## Submission Details
 
-This is an individual assignment. **You may not work in groups.** There are two submissions (checkpoint and complete assignment) you have to make on two seperate due dates. Please check Canvas for submission instructions.
+This is an individual assignment. **You may not work in groups.** There are two submissions (checkpoint and complete assignment) you have to make on two seperate due dates. Please check Canvas for submission due date.
  <!-- due on 
 **Friday 10/3, by 11:59pm**. Your
  is due on **Friday 10/10, by 11:59pm**. -->

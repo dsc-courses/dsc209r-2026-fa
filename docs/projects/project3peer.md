@@ -26,9 +26,10 @@ For each of the concerns listed above – visual encodings, interaction techniqu
 
 ## Submission Details
 
-This is an individual assignment. You may not work in groups.
+This is an individual assignment. You may not work in groups. Please check Canvas for submission due date.
 
-Your peer reviews are due **Fri 11/14, 11:59pm**. The links to the submissions that you are required to evaluate will be emailed to you. You must submit peer reviews for 2 Project 3 submissions. To submit your review, you must use Canvas. Please carefully respond to each of the questions raised.
+<!-- Your peer reviews are due **Fri 11/14, 11:59pm**.  -->
+The links to the submissions that you are required to evaluate will be emailed to you. You must submit peer reviews for 2 Project 3 submissions. To submit your review, you must use Canvas. Please carefully respond to each of the questions raised.
 
 **Some important instructions**:
 

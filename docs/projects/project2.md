@@ -4,8 +4,8 @@ title: 'Project 2: Persuasive/Deceptive Visualization'
 parent: '📝 Projects'
 released: true
 nav_order: 2
-checkpoint_due: 'Fri Oct 17, 11:59pm PT'
-due: 'Fri Oct 24, 11:59pm PT'
+# checkpoint_due: 'Fri Oct 17, 11:59pm PT'
+# due: 'Fri Oct 24, 11:59pm PT'
 ---
 
 # Project 2: Persuasive or Deceptive Visualization?
@@ -19,9 +19,9 @@ due: 'Fri Oct 24, 11:59pm PT'
 > question posed about a single dataset. Once this assignment is complete, we
 > will (anonymously) peer review each other's visualizations.
 >
-> **Checkpoint Due: Fri Oct 17, by 11:59pm**
+<!-- > **Checkpoint Due: Fri Oct 17, by 11:59pm**
 >
-> **Complete Project Due: Fri Oct 24, by 11:59pm**
+> **Complete Project Due: Fri Oct 24, by 11:59pm** -->
 
 <details open markdown="block">
   <summary>
@@ -122,9 +122,9 @@ by Christine Chan—was widely considered to be misleading.
 
 ## Submission Details
 
-This is an individual assignment. **You may not work in groups**. There is a
-checkpoint submission due on **Fri 10/17, by 11:59pm**. Your completed
-assignment is due on **Fri 10/24, by 11:59pm**.
+This is an individual assignment. **You may not work in groups**. There are two submissions (checkpoint and complete assignment) you have to make on two seperate due dates. Please check Canvas for submission due date.
+<!-- checkpoint submission due on **Fri 10/17, by 11:59pm**. Your completed
+assignment is due on **Fri 10/24, by 11:59pm**. -->
 
 ### Checkpoint Submission
 
