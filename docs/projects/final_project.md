@@ -84,7 +84,8 @@ The final project consists of the following milestones:
 - **Team Registration (Wed 11/12, 11:59pm, No Slip Days)**. For this assignment, you should work in teams of **3-4 students**. You may continue with the same teams from Project 3 if you wish. Once your team is formed and you have chosen a dataset, submit the [team registration form](https://forms.gle/FViX3hjwQK6XoPw79). If you received approval to work solo, you still need to submit the form and select **“Solo”** in Question 3. If you are staying with the **same team** as Project 3, please fill out the form as well. Your form must include **the names, UCSD email addresses, and PIDs** of each team member, along with a **concise title for your project**. The title need not be exact, **just a rough title should be a good start**. If you are looking for project partners, please post to Piazza to find classmates with similar interests! 
 
 
-- **Proposal (Fri 11/14, 11:59pm, Can Use Slip Days)**.  Please submit your proposal on **Canvas**. We need the following information in the project proposal:
+<!-- - **Proposal (Fri 11/14, 11:59pm, Can Use Slip Days)**.   -->
+- **Proposal ( Check Canvas for Due Date, Can Use Slip Days)**. Please submit your proposal on **Canvas**. We need the following information in the project proposal:
 
   - Project Title
   - Dataset
@@ -93,20 +94,19 @@ The final project consists of the following milestones:
 
    
 
-- **Initial Prototype (Fri 11/21, 11:59pm, Can Use Slip Days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Canvas.
+- **Initial Prototype (Check Canvas for Due Date, Can Use Slip Days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Canvas.
 
-- **Demo Video (Mon 12/01, 11:59pm, No Slip Days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. More information about preparing the video is available in the project deliverables section.
+- **Demo Video (Check Canvas for Due Date, No Slip Days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. More information about preparing the video is available in the project deliverables section.
 
-- **Final Project Showcase (Tue 12/02, 6-7pm PST)**. We will host a showcase live session (zoom link available in the Week 10 module) on Tue 12/02, 6pm-7pm PST. All students are required to attend the showcase. If you’re unable to join the live session, please email your instructors as soon as possible so we can discuss an alternative assignment.
+- **Final Project Showcase (Check Canvas for Due Date, 6-7pm PST)**. We will host a showcase live session (zoom link available in the Week 10 module). All students are required to attend the showcase. If you’re unable to join the live session, please email your instructors as soon as possible so we can discuss an alternative assignment.
 
-- **Final Deliverables (Tue 12/9, 11:59pm, No Slip Days)**. There is **no slip days** for final deliverables. Publish your final project web page and final demo video. You can make final updates to your page after incorporating feedback from the Week 9 live session. More information about preparing the final deliverables is available in the project deliverables section.
+- **Final Deliverables (Check Canvas for Due Date, No Slip Days)**. There is **no slip days** for final deliverables. Publish your final project web page and final demo video. You can make final updates to your page after incorporating feedback from the Week 9 live session. More information about preparing the final deliverables is available in the project deliverables section.
   
 <!--[link8]: https://forms.gle/YQnBTNushjU2drFP7 -->
 
 ## Project Deliverables
 
-To complete your final project, you must provide two primary deliverables, both
-due Tue 12/9, 11:59pm:
+To complete your final project, you must provide two primary deliverables (Check Canvas for Due Date)
 
 - A demonstration video (<= 2 minutes in length) that communicates your project goals and visualizations. This video can be similar to the demo video that you previously submitted but should be updated to reflect the final version of your website.
 - An interactive web page that visualizes your chosen topic.
@@ -123,9 +123,10 @@ Be sure that your video communicates how your visualization designs enable a bet
 
 Please carefully read the [video production guide][video] for details on how to design and record your video. Your videos should be in MPEG4 (.mp4, .m4v) format. Use appropriate compression to ensure your video file is not unnecessarily large. You will post videos online, so we encourage you to put your best face forward to the world!
 
-Your final demo video must be published on YouTube. In addition you must **submit a URL linking to your video via Canvas by Tue 12/09, 11:59pm.**
+Your final demo video must be published on YouTube. In addition you must **submit a URL linking to your video via Canvas**
+ <!-- by Tue 12/09, 11:59pm.** -->
 
-We will have a video showcase on Tue 12/02, so please have a **first version** of your demo video ready and uploaded to YouTube by **Mon 12/01, 11:59pm. and submit a URL via Canvas.**
+We will have a video showcase on (Dates will be available on Canvas), so please have a **first version** of your demo video ready and uploaded to YouTube **(Please Check Canvas for Due Dates), and submit a URL via Canvas.**
 
 {: .note}
 Please do not enable the option for YouTube Kids while uploading the video as it can't be added to playlists.
@@ -134,7 +135,7 @@ Please do not enable the option for YouTube Kids while uploading the video as it
 
 ## Rubric
 
-### Initial Prototype (due 11/21/2025)
+### Initial Prototype (Check Canvas for Due Dates)
 
 - Webpage: 0.5 Point
 - GitHub Repo: 0.5 Point
@@ -181,7 +182,8 @@ The assignment is out of 20 points possible. Submissions that squarely meet the 
 | **Video: Takeaways**                        |                                                                                                                                                                               | The video ends with an interesting takeaway and explains why your visualization demonstrates this takeaway effectively. What is the one thing that everyone should learn from your visualization? And why does your visualization succeed at explaining it? (+2 points) | The video ends with a takeaway message but the presentation could be improved (e.g. the takeaway isn’t surprising, or focuses too much on the implementation of the visualization), or does not end with a takeaway message at all. (+1 point)                                          |
 | **Creativity and Originality**              | The submission exceeds the assignment requirements, with original insights or a particularly engaging presentation. (up to +1 bonus point)                                    | The submission meets the assignment requirements. (+0 points)                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                         |
 
-### Project Showcase (Tue 12/02, 6-7pm PST)
+<!-- ### Project Showcase (Tue 12/02, 6-7pm PST) -->
+### Project Showcase (Dates will be available on Canvas)
 
 Attendance at the project showcase is worth 5% of your overall grade. You will
 receive the points if you attend the showcase for the entire duration and

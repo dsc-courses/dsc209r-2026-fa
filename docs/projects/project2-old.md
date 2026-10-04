@@ -138,8 +138,10 @@ The assignment is out of 10 points possible – 4 points for each visualization,
 
 ## Submission Details
 
-This is an individual assignment. **You may not work in groups**. There is a checkpoint submission due on **Tue 04/22, by 11:59pm**. Your
-completed assignment is due on **Tue 04/29, by 11:59pm**.
+This is an individual assignment. **You may not work in groups**. There are two submissions (checkpoint and complete assignment) you have to make on two seperate due dates. Please check Canvas for submission due date.
+
+<!-- There is a checkpoint submission due on **Tue 04/22, by 11:59pm**. Your
+completed assignment is due on **Tue 04/29, by 11:59pm**. -->
 
 ### Checkpoint Submission
 

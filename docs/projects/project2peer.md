@@ -34,6 +34,7 @@ To share critique, we will use the ["I like / I wish / What if?"][link] format. 
 
 ## Submission Details
 
-This is an individual assignment. You may not work in groups.
+This is an individual assignment. You may not work in groups. Please check Canvas for due date of this assignment.
 
-Your peer reviews are due **Fri 10/31, 11:59pm**. The submissions that you are required to evaluate will be communicated to you via email. You must submit peer reviews for three Project 2 submissions. To submit your review, you must use Canvas. Please carefully respond to each of the questions raised.
+<!-- Your peer reviews are due **Fri 10/31, 11:59pm**.  -->
+The submissions that you are required to evaluate will be communicated to you via email. You must submit peer reviews for three Project 2 submissions. To submit your review, you must use Canvas. Please carefully respond to each of the questions raised.
