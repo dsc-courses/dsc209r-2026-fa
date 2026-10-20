@@ -30,7 +30,7 @@ As soon as you have formed a team and chosen a dataset, submit the [team registr
 
 You will submit your interactive prototype as a webpage hosted on [GitHub Pages][link6].
 
-[link5]: https://forms.gle/1TKSEFZUMSz9VZWU9
+[link5]: https://docs.google.com/forms/d/e/1FAIpQLSeOSghWF8QAgaEDrOoQ9p91u3zKUx5dJPm_fSTDLVn8ZCnaFg/viewform?usp=dialog
 [link6]: https://pages.github.com/
 
 ## Deliverables
@@ -86,10 +86,6 @@ The assignment is out of 14 points possible. Submissions that squarely meet the 
 | Creativity and Originality | The submission exceeds the assignment requirements, with original insights or particularly engaging visualizations. (+1 bonus point)                                      | The submission meets the assignment requirements. (+0 points)                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                  |
 
 ## Submission Details
-
-### Team Registration
-
-Submit your [team registration form][link5] by **Wed 10/29, 11:59 PM**.
 
 ### Checkpoint Submission
 
