@@ -26,7 +26,8 @@ One challenge is to **scope the assignment so that you can finish it within two 
 
 For this assignment, you should work in teams of **3-4 students**. You might want to find project partners that you will continue to work with for the final project.
 
-As soon as you have formed a team and chosen a dataset, submit the [team registration form][link5]. Your form must include **the names, UCSD email addresses, and PIDs** of each team member, along with a **concise title for your interactive visualization**. The visualization title need not be exact, **just a rough title should be a good start**. If you are looking for project partners, please post to Piazza to find classmates with similar interests! **You should submit your team registration form by Wed 10/29, 11:59 pm.** Please ensure that the team has been finalized before filling the form, and that the details are correct.
+As soon as you have formed a team and chosen a dataset, submit the [team registration form][link5]. Your form must include **the names, UCSD email addresses, and PIDs** of each team member, along with a **concise title for your interactive visualization**. The visualization title need not be exact, **just a rough title should be a good start**. If you are looking for project partners, please post to Piazza to find classmates with similar interests! 
+<!-- **You should submit your team registration form by Wed 10/29, 11:59 pm.** Please ensure that the team has been finalized before filling the form, and that the details are correct. -->
 
 You will submit your interactive prototype as a webpage hosted on [GitHub Pages][link6].
 
